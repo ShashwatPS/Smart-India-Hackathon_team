@@ -201,7 +201,7 @@ export function LandingPage()
                             <Avatar src="src\assets\Snehal.jpg" style={{width : "80px" , height  : "80px"}}></Avatar>
                         </ListItemAvatar>
                         <h1>Snehal Saurabh</h1>
-                        <p>Worked on the feature extraction and creation of the Ml Model utilized.</p>
+                        <p>Worked on the feature extraction and creation of the ML Model utilized.</p>
                     </div>
                 </div>
                 <div className="card" id="card4">
@@ -211,7 +211,7 @@ export function LandingPage()
                             <Avatar src="src\assets\Vibhor.jpg" style={{width : "80px" , height  : "80px"}}></Avatar>
                         </ListItemAvatar>
                         <h1>Vibhor Phalke</h1>
-                        <p>Worked on the main UI/UX part of the app.</p>
+                        <p>Worked on the main UI/UX part of the App.</p>
                     </div>
                 </div>
                 <div className="card" id="card5">
@@ -221,7 +221,7 @@ export function LandingPage()
                             <Avatar src="src\assets\Shashwat.jpg" style={{width : "80px" , height  : "80px"}}></Avatar>
                         </ListItemAvatar>
                         <h1>Shashwat Singh</h1>
-                        <p>Worked on integrating the Ml Model and the backend part of the app.</p>
+                        <p>Worked on integrating the Ml Model and the backend part of the App.</p>
                     </div>
                 </div>
                 <div className="card" id="card6">
@@ -271,7 +271,7 @@ export function LandingPage()
                     </div>
                     <div>
                         <p><a href="https://www.mongodb.com/docs/" target="_blank">MongoDb</a></p>
-                        <p><a href="https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset" target="_blank">Keggle Database</a></p>
+                        <p><a href="https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset" target="_blank">Kaggle Database</a></p>
                     </div>
                 </div>
             </section>
@@ -283,7 +283,7 @@ export function LandingPage()
                         <p>GitHub</p>
                         <p>Youtube</p>
                         <p>SIH</p>
-                        <p>LinkdIn</p>
+                        <p>LinkedIn</p>
                     </div>
                 </div>
             </section>
