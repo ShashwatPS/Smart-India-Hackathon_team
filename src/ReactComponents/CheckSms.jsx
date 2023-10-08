@@ -131,7 +131,7 @@ export function CheckSMS()
                     </div>
                     <div>
                         <p><a href="https://www.mongodb.com/docs/" target="_blank">MongoDb</a></p>
-                        <p><a href="https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset" target="_blank">Keggle Database</a></p>
+                        <p><a href="https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset" target="_blank">Kaggle Database</a></p>
                     </div>
                 </div>
             </section>
@@ -143,7 +143,7 @@ export function CheckSMS()
                         <p>GitHub</p>
                         <p>Youtube</p>
                         <p>SIH</p>
-                        <p>LinkdIn</p>
+                        <p>LinkedIn</p>
                     </div>
                 </div>
             </section>

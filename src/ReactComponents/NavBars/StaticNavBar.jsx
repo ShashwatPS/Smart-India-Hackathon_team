@@ -56,7 +56,10 @@ export function StaticNavBar()
                         })
                         navigate("/");
                     }}>LogOut</Button>
-                    <Button variant="outlined" id="LPSignUp">Contribute</Button>
+                    <Button variant="outlined" id="LPSignUp" onClick={()=>{
+                        var externalURL = 'https://github.com/SmartIndiaHackthon2023-TEAM/Smart-India-Hackathon_team';
+                        window.open(externalURL, '_blank');
+                    }}>Contribute</Button>
                 </div>
             </>
         )
