@@ -181,7 +181,7 @@ export function LandingPage()
                     <Avatar src="src\assets\Harsh.jpg" style={{width : "80px" , height  : "80px"}}></Avatar>
                         </ListItemAvatar>
                     <h1>Harsh Patel</h1>
-                    <p>I am the best Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, repellendus. Molestias sunt aliquid recusandae facilis laboriosam maxime, beatae ipsa dicta dolor amet.</p>
+                    <p>Helped out the Data-Science team with idea.</p>
                     </div>
                 </div>
                 <div className="card" id="card2">
@@ -191,7 +191,7 @@ export function LandingPage()
                             <Avatar src="src\assets\Shivansh.jpg" style={{width : "80px" , height  : "80px"}}></Avatar>
                         </ListItemAvatar>
                         <h1>Shivansh Mahajan</h1>
-                        <p>I am the best Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, repellendus. Molestias sunt aliquid recusandae facilis laboriosam maxime, beatae ipsa dicta dolor amet.</p>
+                        <p>Helped out with the SMS Model.</p>
                     </div>
                 </div>
                 <div className="card" id="card3">
@@ -201,7 +201,7 @@ export function LandingPage()
                             <Avatar src="src\assets\Snehal.jpg" style={{width : "80px" , height  : "80px"}}></Avatar>
                         </ListItemAvatar>
                         <h1>Snehal Saurabh</h1>
-                        <p>I am the best Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, repellendus. Molestias sunt aliquid recusandae facilis laboriosam maxime, beatae ipsa dicta dolor amet.</p>
+                        <p>Worked on the feature extraction and creation of the Ml Model utilized.</p>
                     </div>
                 </div>
                 <div className="card" id="card4">
@@ -211,7 +211,7 @@ export function LandingPage()
                             <Avatar src="src\assets\Vibhor.jpg" style={{width : "80px" , height  : "80px"}}></Avatar>
                         </ListItemAvatar>
                         <h1>Vibhor Phalke</h1>
-                        <p>I am the best Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, repellendus. Molestias sunt aliquid recusandae facilis laboriosam maxime, beatae ipsa dicta dolor amet.</p>
+                        <p>Worked on the main UI/UX part of the app.</p>
                     </div>
                 </div>
                 <div className="card" id="card5">
@@ -221,7 +221,7 @@ export function LandingPage()
                             <Avatar src="src\assets\Shashwat.jpg" style={{width : "80px" , height  : "80px"}}></Avatar>
                         </ListItemAvatar>
                         <h1>Shashwat Singh</h1>
-                        <p>I am the best Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, repellendus. Molestias sunt aliquid recusandae facilis laboriosam maxime, beatae ipsa dicta dolor amet.</p>
+                        <p>Worked on integrating the Ml Model and the backend part of the app.</p>
                     </div>
                 </div>
                 <div className="card" id="card6">
@@ -231,7 +231,7 @@ export function LandingPage()
                             <Avatar src="src\assets\Samriddhi.jpg" style={{width : "80px" , height  : "80px"}}></Avatar>
                         </ListItemAvatar>
                         <h1>Samriddhi Tripathi</h1>
-                        <p>I am the best Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, repellendus. Molestias sunt aliquid recusandae facilis laboriosam maxime, beatae ipsa dicta dolor amet.</p>
+                        <p>I love FIFA.</p>
                     </div>
                 </div>
             </section>

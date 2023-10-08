@@ -119,7 +119,7 @@ export function SignInPop()
                             }}>Login</Button> 
                             </div>
                             <div className="OAuth">
-                                <h2 style={{color : "#900800"}}>OAuth comming Soon</h2>
+                                <h2 style={{color : "#900800"}}>OAuth coming Soon</h2>
                             </div>
                         </div>
                     </div>

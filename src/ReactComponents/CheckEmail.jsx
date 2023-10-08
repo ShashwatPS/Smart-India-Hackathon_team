@@ -89,7 +89,6 @@ export function CheckEmail()
                                     <div className="redInput" id="redInput">
                                         <Button variant="outlined" id="redButton">Result :</Button>
                                         <div className="whiteSpace">
-                                            <p>THIS IS RESULT</p>
                                             <p>{result}</p>
                                         </div>
                                     </div>
